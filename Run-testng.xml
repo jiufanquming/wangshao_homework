@@ -3,9 +3,9 @@
 <suite name="Default Suite">
   <test name="selenium">
     <classes>
-      <class name="wangjian_day2.daojutext">
+      <class name="wangjian_day1.testNGdemo1">
         <methods>
-          <include name="closeadd"/>
+          <include name="classCase1"/>
         </methods>
       </class> <!-- wangjian_day1.BrowsersActionTest -->
     </classes>

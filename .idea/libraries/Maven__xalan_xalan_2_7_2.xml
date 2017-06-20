@@ -1,8 +1,5 @@
 <component name="libraryTable">
   <library name="Maven: xalan:xalan:2.7.2">
-    <ANNOTATIONS>
-      <root url="file://$PROJECT_DIR$" />
-    </ANNOTATIONS>
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/xalan/xalan/2.7.2/xalan-2.7.2.jar!/" />
     </CLASSES>
